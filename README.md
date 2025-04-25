@@ -1,5 +1,7 @@
 Here is a short list of things I maintain here, divided by category. Note that there used to be a lot more repos (about 200 more) on here but I lost them due to a cleanup. So, I'm sorry if your favorite project was lost.
 
+Click on the year 1978 for a secret message in the contributor graph.
+
 You can contact me @ <erikhollensbe@proton.me> for now, my standard email is busted.
 
 There are a lot of repositories left out, so maybe you can find something in my archives that's useful to you. I've also maintained other stuff in the past on different orgs and so on, but none of that is mentioned here.
