@@ -1,4 +1,4 @@
-Here is a short list of things I maintain here, divided by category. Note that there used to be a lot more repos (about 200 more) on here but I lost them due to a cleanup. So, I'm sorry if your favorite project was lost.
+Here is a short list of things I maintain here, divided by category. Note that there used to be a lot more repos (about 200 more) on here but I lost them due to a cleanup. So, I'm sorry if your favorite project was lost; the vast majority of my rubygems, perl, and chef libraries are gone.
 
 Click on the year 1978 for a secret message in the contributor graph.
 
