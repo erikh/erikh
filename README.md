@@ -6,6 +6,11 @@ You can contact me @ <erikhollensbe@proton.me> for now, my standard email is bus
 
 There are a lot of repositories left out, so maybe you can find something in my archives that's useful to you. I've also maintained other stuff in the past on different orgs and so on, but none of that is mentioned here.
 
+## Actively Hacking On
+
+- Mostly [Trunk](https://github.com/trunk-os), a distribution to enable non-technical people to run their own storage & compute at home
+- Some small half-baked projects around Model Context Protocol.
+
 ## Golang libraries
 
 - [turtle](https://github.com/erikh/turtle): Spec-compliant Turtle 1.1 (RDF) parser. Fork of [nvkp/turtle](https://github.com/nvkp/turtle).
