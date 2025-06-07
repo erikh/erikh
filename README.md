@@ -2,7 +2,7 @@ Here is a short list of things I maintain here, divided by category. Note that t
 
 Click on the year 1978 for a secret message in the contributor graph.
 
-You can contact me @ <erik@hollensbe.org>. My blog is [here](https://erik.hollensbe.org), but I haven't written anything in a while. If you like deep dives on random topics, though, that's a good place for it.
+You can contact me @ <git@hollensbe.org>. My blog is [here](https://erik.hollensbe.org), but I haven't written anything in a while. If you like deep dives on random topics, though, that's a good place for it.
 
 There are a lot of repositories left out, so maybe you can find something in my archives that's useful to you. I've also maintained other stuff in the past on different orgs and so on, but none of that is mentioned here.
 
