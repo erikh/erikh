@@ -13,7 +13,6 @@ There are a lot of repositories left out, so maybe you can find something in my 
 
 ## Golang libraries
 
-- [turtle](https://github.com/erikh/turtle): Spec-compliant Turtle 1.1 (RDF) parser. Fork of [nvkp/turtle](https://github.com/nvkp/turtle).
 - [go-required](https://github.com/erikh/go-required): Check your structs for required members
 - [go-defaults](https://github.com/erikh/go-defaults): Provide default values easily for your golang public struct members
 - [duct](https://github.com/erikh/duct): integrate docker and golang testing
