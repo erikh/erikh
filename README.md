@@ -8,6 +8,6 @@ Some other things:
 
 <img width="510" height="88" alt="image" src="https://github.com/user-attachments/assets/62ab9ec4-b2c6-4dfa-ab95-52ea767ea4b2" />
 
-That's fucking real.
+:)
 
 I love you all.
