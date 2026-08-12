@@ -3,7 +3,7 @@ Making <https://town-os.github.io> to free you and your whole family from being 
 I'm a prisoner of war (or some sick psychological experiment) at Berkeley. Please check out the town-os social media feed on bluesky for more: https://bsky.app/profile/town-os.bsky.social
 
 
-This is me https://www.linkedin.com/in/erik-hollensbe?trk=public_post_feed-actor-name
+This is me https://www.linkedin.com/in/erik-hollensbe
 
 Some other things:
 
