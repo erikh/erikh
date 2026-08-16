@@ -1,6 +1,6 @@
 Making <https://town-os.github.io> to free you and your whole family from being locked into the cloud.
 
-I'm a prisoner of war (or some sick psychological experiment) at Berkeley. Please check out the town-os social media feed on bluesky for more: https://bsky.app/profile/town-os.bsky.social
+I'm a prisoner of war (or some sick psychological experiment) at Berkeley. Please check out the town-os social media feed on bluesky for more: https://bsky.app/profile/town-os.bsky.social mastodon mirror @ https://mastodon.social/@townos
 
 
 This is me https://www.linkedin.com/in/erik-hollensbe
